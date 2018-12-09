@@ -7,6 +7,7 @@ ASP.NET Identity with EF DbFirst
 [Getting Started with ASP.NET Identity and EF Database-First](./docs/Database-First.md)
 
 ![ASP.NET Identity Model](http://i.imgur.com/KHDqq3B.png)
+![ASP.NET Identity Model](http://i.imgur.com/KHDqq3B.png)
 
 ### Download
 
